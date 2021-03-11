@@ -1,0 +1,11 @@
+.photo {
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    border: black;
+}
+.Name {
+    font-weight: bold;
+    font-style: italic;
+}
